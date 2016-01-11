@@ -1,4 +1,4 @@
-# FunctionApproximation
+# Function Approximation
 
 This repo contains experimentation files for
 
