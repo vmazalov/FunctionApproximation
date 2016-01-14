@@ -1,6 +1,6 @@
 # Function Approximation
 
-This repo contains experimentation files for
+This repo contains some of the experimentation files from my PhD for
 
 1. Generation of Chebyshev, Legendre, Legendre-Sobolev polynomials.
 1. Approximation of digital strokes with those polynomials.
